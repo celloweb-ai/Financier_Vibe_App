@@ -1,4 +1,4 @@
-# Sem título
+# PRD FINAL
 
 ```
 # FinChat – Product Requirements Document (PRD)

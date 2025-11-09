@@ -1,4 +1,4 @@
-# 💸 AI Personal Finance Assistant
+# 💸 Finchat - AI Personal Finance Assistant
 > *Um conceito de aplicativo desenvolvido via Vibe Coding (IA-First)*
 
 <p align="left">

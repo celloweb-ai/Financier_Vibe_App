@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](https://github.com/celloweb-ai/celloweb-ai/blob/main/images/github-header-banner.png)
+
 # 💸 Finchat AI
 ### Seu Assistente Financeiro Pessoal
 
